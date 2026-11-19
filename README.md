@@ -110,3 +110,5 @@ DocuMind CLI checks whether the input file exists and reports unsupported file f
 - Add document summarization.
 - Improve structured data extraction.
 
+## Developer
+- ARJUN S S
