@@ -110,5 +110,21 @@ DocuMind CLI checks whether the input file exists and reports unsupported file f
 - Add document summarization.
 - Improve structured data extraction.
 
-## Developer
-- ARJUN S S
+
+## About the Developer
+
+**Name:** Arjun S. S.  
+**Degree:** B.E. Computer Science and Engineering  
+**Graduation Year:** 2027
+
+### Developer Information
+- **GitHub:** [My GitHub Profile](https://github.com/arjunachu-rgb)
+- **Project:** DocuMind CLI
+- **Programming Language:** Python
+
+### Contact
+For questions, suggestions, or collaboration, feel free to connect with me through GitHub.
+
+---
+
+*Developed as a mini project to explore document processing and data extraction using Python.*
